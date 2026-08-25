@@ -1,0 +1,4893 @@
+  [
+  {
+    "id": 1,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used to declare a variable in C#?",
+    "choices": [ "var", "define", "new", "let"],
+    "correctAnswerIndex": 0,
+    "explanation": "The 'var' keyword allows implicit typing in C#."
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which method is used   to display text on the console?",
+    "choices": [ "Console.ReadLine()", "Console.Write()", "Console.WriteLine()", "Console.Print()" ],
+    "correctAnswerIndex": 2,
+    "explanation": "Console.WriteLine() displays text followed by a new line."
+  },
+  {
+    "id": 3,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which symbol ends a statement in C#?",
+    "choices": [ ".", ";", ":", "," ],
+    "correctAnswerIndex": 1,
+    "explanation": "Most C# statements end with a semicolon."
+  },
+  {
+    "id": 4,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword creates a new object in C#?",
+    "choices": [ "object", "class", "new", "create" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The 'new' keyword creates an instance of a class."
+  },
+  {
+    "id": 5,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which data type stores whole numbers?",
+    "choices": [ "string", "bool", "int", "double" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The int data type stores whole numbers."
+  },
+  {
+    "id": 6,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which loop repeats while a condition is true?",
+    "choices": [ "for", "while", "switch", "foreach" ],
+    "correctAnswerIndex": 1,
+    "explanation": "A while loop continues until its condition becomes false."
+  },
+  {
+    "id": 7,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used for decision making?",
+    "choices": [ "loop", "case", "if", "break" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The if statement executes code based on a condition."
+  },
+  {
+    "id": 8,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which collection stores multiple values in C#?",
+    "choices": [ "List<T>", "Console", "Math", "Random" ],
+    "correctAnswerIndex": 0,
+    "explanation": "List<T> stores a collection of items."
+  },
+  {
+    "id": 9,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword defines a class?",
+    "choices": [ "class", "struct", "new", "object" ],
+    "correctAnswerIndex": 0,
+    "explanation": "The class keyword is used to define a class."
+  },
+  {
+    "id": 10,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which method reads user input from the console?",
+    "choices": [ "Console.Write()", "Console.ReadLine()", "Console.WriteLine()", "Console.Input()" ],
+    "correctAnswerIndex": 1,
+    "explanation": "Console.ReadLine() reads a line of user input."
+  },
+  {
+    "id": 11,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which data type is used to store text in C#?",
+    "choices": [ "char", "string", "text", "word" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The string data type stores a sequence of characters."
+  },
+  {
+    "id": 12,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which value can a bool variable store?",
+    "choices": [ "0 or 1", "True or False", "Yes or No", "On or Off" ],
+    "correctAnswerIndex": 1,
+    "explanation": "A bool variable stores either true or false."
+  },
+  {
+    "id": 13,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which operator is used for addition?",
+    "choices": [ "+", "-", "*", "/" ],
+    "correctAnswerIndex": 0,
+    "explanation": "The plus (+) operator adds two values."
+  },
+  {
+    "id": 14,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used to define a method that does not return a value?",
+    "choices": [ "null", "void", "return", "empty" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The void keyword indicates that a method does not return a value."
+  },
+  {
+    "id": 15,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which symbol is used for single-line comments in C#?",
+    "choices": [ "/*", "//", "#", "<!--" ],
+    "correctAnswerIndex": 1,
+    "explanation": "Double forward slashes (//) begin a single-line comment."
+  },
+  {
+    "id": 16,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which loop is commonly used when the number of iterations is known?",
+    "choices": [ "while", "do-while", "for", "switch" ],
+    "correctAnswerIndex": 2,
+    "explanation": "A for loop is typically used when the number of iterations is known."
+  },
+  {
+    "id": 17,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which statement is used to choose between multiple conditions?",
+    "choices": [ "if", "while", "switch", "loop" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The switch statement selects one of many possible execution paths."
+  },
+  {
+    "id": 18,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword exits a loop immediately?",
+    "choices": [ "continue", "return", "exit", "break" ],
+    "correctAnswerIndex": 3,
+    "explanation": "The break statement immediately exits the current loop or switch."
+  },
+  {
+    "id": 19,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which namespace contains the Console class?",
+    "choices": [ "System", "Collections", "Linq", "IO" ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Console class is part of the System namespace."
+  },
+  {
+    "id": 20,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which method converts a string to an integer?",
+    "choices": [ "int.Parse()", "ToInteger()", "ConvertInt()", "ParseInt()" ],
+    "correctAnswerIndex": 0,
+    "explanation": "int.Parse() converts a numeric string into an integer."
+  },
+  {
+    "id": 21,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used to return a value from a method?",
+    "choices": [ "return", "break", "continue", "exit" ],
+    "correctAnswerIndex": 0,
+    "explanation": "The return keyword exits a method and optionally returns a value."
+  },
+  {
+    "id": 22,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which operator is used to compare if two values are equal?",
+    "choices": [ "=", "==", "!=", ">" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The == operator checks if two values are equal."
+  },
+  {
+    "id": 23,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which class is used to generate random numbers in C#?",
+    "choices": [ "Math", "Random", "Console", "Number" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Random class is used to generate pseudo-random numbers."
+  },
+  {
+    "id": 24,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which loop executes at least one time before checking its condition?",
+    "choices": [ "for", "while", "foreach", "do-while" ],
+    "correctAnswerIndex": 3,
+    "explanation": "A do-while loop always executes its body at least once."
+  },
+  {
+    "id": 25,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used to create an object from a class?",
+    "choices": [ "make", "class", "new", "create" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The new keyword creates an instance of a class."
+  },
+  {
+    "id": 26,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which collection automatically grows as items are added?",
+    "choices": [ "Array", "List<T>", "String", "Tuple" ],
+    "correctAnswerIndex": 1,
+    "explanation": "List<T> is a dynamic collection that automatically resizes."
+  },
+  {
+    "id": 27,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword defines a constant value in C#?",
+    "choices": [ "readonly", "const", "static", "fixed" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The const keyword declares a compile-time constant."
+  },
+  {
+    "id": 28,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which statement skips the current loop iteration and moves to the next one?",
+    "choices": [ "break", "return", "continue", "goto" ],
+    "correctAnswerIndex": 2,
+    "explanation": "The continue statement skips the remaining code in the current iteration."
+  },
+  {
+    "id": 29,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which access modifier makes a class member accessible from anywhere?",
+    "choices": [ "private", "protected", "internal", "public" ],
+    "correctAnswerIndex": 3,
+    "explanation": "The public access modifier allows access from any class."
+  },
+  {
+    "id": 30,
+    "category": "Programming",
+    "difficulty": "Easy",
+    "questionText": "Which keyword is used to define a namespace?",
+    "choices": [ "using", "namespace", "package", "module" ],
+    "correctAnswerIndex": 1,
+    "explanation": "The namespace keyword groups related classes and types."
+  },
+  {
+    "id": 31,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which OOP principle allows one class to inherit the members of another class?",
+    "choices": [
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance",
+      "Abstraction"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Inheritance allows a class to acquire the properties and methods of another class."
+  },
+  {
+    "id": 32,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is used to inherit from a base class in C#?",
+    "choices": [
+      "extends",
+      "inherits",
+      ":",
+      "implements"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "In C#, inheritance is specified using a colon (:)."
+  },
+  {
+    "id": 33,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which collection is best when you need a dynamically sized list?",
+    "choices": [
+      "Array",
+      "List<T>",
+      "Stack",
+      "Queue"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "List<T> automatically resizes as items are added or removed."
+  },
+  {
+    "id": 34,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which statement is used to handle exceptions in C#?",
+    "choices": [
+      "if-else",
+      "switch",
+      "try-catch",
+      "foreach"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The try-catch statement is used to catch and handle exceptions."
+  },
+  {
+    "id": 35,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is used to create an object that cannot be modified after initialization?",
+    "choices": [
+      "readonly",
+      "const",
+      "static",
+      "sealed"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A readonly field can only be assigned during declaration or in a constructor."
+  },
+  {
+    "id": 36,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which LINQ method filters a collection based on a condition?",
+    "choices": [
+      "OrderBy()",
+      "Where()",
+      "Select()",
+      "Count()"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Where() returns elements that satisfy a specified condition."
+  },
+  {
+    "id": 37,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which access modifier allows members to be accessed only within the same class?",
+    "choices": [
+      "public",
+      "internal",
+      "private",
+      "protected"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Private members are accessible only within their own class."
+  },
+  {
+    "id": 38,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which class is commonly used for reading text files in C#?",
+    "choices": [
+      "File",
+      "Console",
+      "Directory",
+      "StringBuilder"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The File class provides methods such as ReadAllText() and ReadAllLines()."
+  },
+  {
+    "id": 39,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which JSON library is recommended in modern .NET applications?",
+    "choices": [
+      "System.Text.Json",
+      "JsonReader",
+      "XMLSerializer",
+      "BinaryFormatter"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "System.Text.Json is the built-in JSON library for modern .NET applications."
+  },
+  {
+    "id": 40,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which method converts a C# object into a JSON string using System.Text.Json?",
+    "choices": [
+      "JsonSerializer.Serialize()",
+      "JsonSerializer.Deserialize()",
+      "File.WriteAllText()",
+      "Console.WriteLine()"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "JsonSerializer.Serialize() converts an object into its JSON representation."
+  },
+  {
+    "id": 41,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which LINQ method sorts a collection in ascending order?",
+    "choices": [
+      "Sort()",
+      "OrderBy()",
+      "Arrange()",
+      "Ascending()"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "OrderBy() sorts a collection in ascending order."
+  },
+  {
+    "id": 42,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword prevents a class from being inherited?",
+    "choices": [
+      "abstract",
+      "readonly",
+      "sealed",
+      "static"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A sealed class cannot be inherited."
+  },
+  {
+    "id": 43,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword allows a method in a derived class to replace a base class implementation?",
+    "choices": [
+      "override",
+      "replace",
+      "virtual",
+      "new"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The override keyword replaces a virtual or abstract method from the base class."
+  },
+  {
+    "id": 44,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is required in the base class before a method can be overridden?",
+    "choices": [
+      "override",
+      "virtual",
+      "sealed",
+      "partial"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A method must be marked virtual (or abstract) before it can be overridden."
+  },
+  {
+    "id": 45,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which interface represents a collection that can be enumerated using foreach?",
+    "choices": [
+      "IComparable",
+      "IEnumerable",
+      "IDisposable",
+      "ICloneable"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "IEnumerable allows objects to be iterated using foreach."
+  },
+  {
+    "id": 46,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which statement immediately exits a method?",
+    "choices": [
+      "break",
+      "continue",
+      "return",
+      "goto"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The return statement exits the current method."
+  },
+  {
+    "id": 47,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which collection follows the Last In, First Out (LIFO) principle?",
+    "choices": [
+      "Queue<T>",
+      "List<T>",
+      "Stack<T>",
+      "Dictionary<TKey, TValue>"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Stack<T> uses the Last In, First Out (LIFO) principle."
+  },
+  {
+    "id": 48,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which collection follows the First In, First Out (FIFO) principle?",
+    "choices": [
+      "Queue<T>",
+      "Stack<T>",
+      "Array",
+      "HashSet<T>"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Queue<T> uses the First In, First Out (FIFO) principle."
+  },
+  {
+    "id": 49,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which File class method writes text to a file, replacing existing content?",
+    "choices": [
+      "File.AppendAllText()",
+      "File.WriteAllText()",
+      "File.ReadAllText()",
+      "File.OpenRead()"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "File.WriteAllText() creates or overwrites a file with the specified text."
+  },
+  {
+    "id": 50,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which method converts a JSON string into a C# object using System.Text.Json?",
+    "choices": [
+      "JsonSerializer.Serialize()",
+      "JsonSerializer.Deserialize()",
+      "JsonSerializer.Parse()",
+      "JsonSerializer.Load()"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "JsonSerializer.Deserialize() converts JSON into a C# object."
+  },
+  {
+    "id": 51,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which LINQ method returns the number of elements in a collection?",
+    "choices": [
+      "Count()",
+      "Length()",
+      "Size()",
+      "Total()"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The Count() method returns the total number of elements in a collection."
+  },
+  {
+    "id": 52,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is used to define an interface in C#?",
+    "choices": [
+      "class",
+      "interface",
+      "implements",
+      "struct"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The interface keyword is used to declare an interface."
+  },
+  {
+    "id": 53,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is used to implement an interface in a class?",
+    "choices": [
+      "implements",
+      "inherits",
+      ":",
+      "using"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A class implements an interface by listing it after a colon (:)."
+  },
+  {
+    "id": 54,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which collection stores key-value pairs in C#?",
+    "choices": [
+      "List<T>",
+      "Queue<T>",
+      "Dictionary<TKey, TValue>",
+      "Stack<T>"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dictionary<TKey, TValue> stores data as key-value pairs."
+  },
+  {
+    "id": 55,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which exception is commonly thrown when dividing an integer by zero?",
+    "choices": [
+      "NullReferenceException",
+      "DivideByZeroException",
+      "IOException",
+      "FormatException"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "DivideByZeroException occurs when an integer is divided by zero."
+  },
+  {
+    "id": 56,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which statement is used to execute code regardless of whether an exception occurs?",
+    "choices": [
+      "catch",
+      "throw",
+      "finally",
+      "try"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The finally block always executes after try/catch."
+  },
+  {
+    "id": 57,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword is used to manually throw an exception?",
+    "choices": [
+      "throw",
+      "catch",
+      "raise",
+      "exception"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The throw keyword is used to generate an exception."
+  },
+  {
+    "id": 58,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which LINQ method projects each element into a new form?",
+    "choices": [
+      "Where()",
+      "OrderBy()",
+      "Select()",
+      "Count()"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Select() transforms each element into another form."
+  },
+  {
+    "id": 59,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which keyword defines a class that cannot be instantiated directly?",
+    "choices": [
+      "sealed",
+      "partial",
+      "abstract",
+      "static"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "An abstract class cannot be instantiated directly."
+  },
+  {
+    "id": 60,
+    "category": "Programming",
+    "difficulty": "Medium",
+    "questionText": "Which namespace provides LINQ extension methods such as Where() and Select()?",
+    "choices": [
+      "System.IO",
+      "System.Collections",
+      "System.Linq",
+      "System.Text"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "System.Linq contains LINQ extension methods for querying collections."
+  },
+  {
+    "id": 61,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used to define an asynchronous method in C#?",
+    "choices": [
+      "await",
+      "async",
+      "Task",
+      "thread"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The async keyword marks a method as asynchronous."
+  },
+  {
+    "id": 62,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used inside an async method to wait for a task to complete?",
+    "choices": [
+      "wait",
+      "pause",
+      "await",
+      "delay"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The await keyword asynchronously waits for a Task to complete."
+  },
+  {
+    "id": 63,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which interface should a class implement when it manages unmanaged resources?",
+    "choices": [
+      "IComparable",
+      "IEnumerable",
+      "IDisposable",
+      "ICloneable"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "IDisposable allows a class to release unmanaged resources through the Dispose() method."
+  },
+  {
+    "id": 64,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which statement is commonly used to ensure Dispose() is called automatically?",
+    "choices": [
+      "try",
+      "using",
+      "lock",
+      "foreach"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The using statement automatically calls Dispose() when the object goes out of scope."
+  },
+  {
+    "id": 65,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which generic collection stores only unique values?",
+    "choices": [
+      "List<T>",
+      "Queue<T>",
+      "HashSet<T>",
+      "Dictionary<TKey, TValue>"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "HashSet<T> stores unique elements and automatically ignores duplicates."
+  },
+  {
+    "id": 66,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used to declare a generic type parameter?",
+    "choices": [
+      "<T>",
+      "<Generic>",
+      "<Type>",
+      "<Item>"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The convention in C# is to use <T> as the generic type parameter."
+  },
+  {
+    "id": 67,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which class is commonly used to execute work on a background thread in modern C#?",
+    "choices": [
+      "Task",
+      "Console",
+      "Random",
+      "ThreadPoolManager"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Task is the preferred way to represent asynchronous operations in modern C#."
+  },
+  {
+    "id": 68,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword prevents multiple threads from accessing a block of code simultaneously?",
+    "choices": [
+      "safe",
+      "thread",
+      "lock",
+      "synchronized"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The lock statement ensures that only one thread can execute a critical section at a time."
+  },
+  {
+    "id": 69,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which LINQ method returns the first element that matches a condition, or throws an exception if none exists?",
+    "choices": [
+      "First()",
+      "FirstOrDefault()",
+      "Find()",
+      "SingleOrDefault()"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "First() returns the first matching element and throws an exception if no element is found."
+  },
+  {
+    "id": 70,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which feature allows a method to accept different parameter types or counts using the same method name?",
+    "choices": [
+      "Inheritance",
+      "Method Overloading",
+      "Method Overriding",
+      "Encapsulation"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Method overloading allows multiple methods with the same name but different parameter lists."
+  },
+  {
+    "id": 71,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which C# feature allows a method to be passed as a parameter?",
+    "choices": [
+      "Delegate",
+      "Interface",
+      "Property",
+      "Namespace"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A delegate is a type-safe reference to a method and can be passed as a parameter."
+  },
+  {
+    "id": 72,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is commonly used to create a lambda expression?",
+    "choices": [
+      "=>",
+      "->",
+      "::",
+      "<-"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The => operator is used to define lambda expressions in C#."
+  },
+  {
+    "id": 73,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "What is the primary purpose of an event in C#?",
+    "choices": [
+      "Store data",
+      "Notify subscribers when something happens",
+      "Create a thread",
+      "Handle exceptions"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Events implement the publisher-subscriber pattern, notifying subscribers when an action occurs."
+  },
+  {
+    "id": 74,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used when declaring an event?",
+    "choices": [
+      "delegate",
+      "event",
+      "notify",
+      "signal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The event keyword declares an event that clients can subscribe to."
+  },
+  {
+    "id": 75,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which namespace contains the Reflection classes in .NET?",
+    "choices": [
+      "System.Reflection",
+      "System.Linq",
+      "System.Threading",
+      "System.Text"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Reflection classes are found in the System.Reflection namespace."
+  },
+  {
+    "id": 76,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Reflection in C# is primarily used to:",
+    "choices": [
+      "Query and inspect types at runtime",
+      "Sort collections",
+      "Read JSON files",
+      "Create database tables"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Reflection lets you inspect assemblies, classes, methods, and properties while the program is running."
+  },
+  {
+    "id": 77,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword allows a derived class to call the constructor of its base class?",
+    "choices": [
+      "base",
+      "this",
+      "parent",
+      "super"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The base keyword accesses members and constructors of the base class."
+  },
+  {
+    "id": 78,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword refers to the current object instance?",
+    "choices": [
+      "current",
+      "this",
+      "self",
+      "base"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The this keyword refers to the current instance of the class."
+  },
+  {
+    "id": 79,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which collection provides the fastest lookup by key in most common scenarios?",
+    "choices": [
+      "List<T>",
+      "Queue<T>",
+      "Dictionary<TKey, TValue>",
+      "Stack<T>"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dictionary<TKey, TValue> is optimized for fast key-based lookups."
+  },
+  {
+    "id": 80,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which C# feature allows you to add methods to an existing type without modifying its source code?",
+    "choices": [
+      "Partial Classes",
+      "Extension Methods",
+      "Delegates",
+      "Reflection"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Extension methods let you add functionality to existing types by defining static methods."
+  },
+  {
+    "id": 81,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used to define an extension method in C#?",
+    "choices": [
+      "extend",
+      "this",
+      "extension",
+      "static"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "An extension method is declared in a static class, and its first parameter uses the 'this' keyword."
+  },
+  {
+    "id": 82,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which type of class cannot be instantiated directly?",
+    "choices": [
+      "Static class",
+      "Partial class",
+      "Abstract class",
+      "Nested class"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "An abstract class cannot be instantiated directly; it must be inherited."
+  },
+  {
+    "id": 83,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "What is the main purpose of the 'yield return' statement in C#?",
+    "choices": [
+      "Return multiple values at once",
+      "Create an iterator that returns elements one at a time",
+      "Exit a loop",
+      "Throw an exception"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The 'yield return' statement is used to create iterators that return elements lazily."
+  },
+  {
+    "id": 84,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which interface allows a class to be used in a foreach loop?",
+    "choices": [
+      "IComparable",
+      "IDisposable",
+      "IEnumerable",
+      "ICloneable"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A class implementing IEnumerable can be iterated using foreach."
+  },
+  {
+    "id": 85,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used to rethrow the current exception inside a catch block?",
+    "choices": [
+      "throw",
+      "throws",
+      "raise",
+      "retry"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Using 'throw;' inside a catch block rethrows the current exception while preserving its stack trace."
+  },
+  {
+    "id": 86,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which LINQ method groups elements that share the same key?",
+    "choices": [
+      "Where()",
+      "Select()",
+      "GroupBy()",
+      "Join()"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "GroupBy() organizes elements into groups based on a key."
+  },
+  {
+    "id": 87,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "What is the primary purpose of the 'record' type introduced in modern C#?",
+    "choices": [
+      "Database storage",
+      "Immutable data models",
+      "Thread management",
+      "File handling"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Records are designed for immutable data and provide built-in value equality."
+  },
+  {
+    "id": 88,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which keyword is used to match patterns in a switch expression?",
+    "choices": [
+      "case",
+      "when",
+      "match",
+      "pattern"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The 'when' keyword adds pattern-matching conditions to switch cases."
+  },
+  {
+    "id": 89,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which collection guarantees that each key is unique?",
+    "choices": [
+      "List<T>",
+      "HashSet<T>",
+      "Dictionary<TKey, TValue>",
+      "Queue<T>"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dictionary<TKey, TValue> requires every key to be unique."
+  },
+  {
+    "id": 90,
+    "category": "Programming",
+    "difficulty": "Hard",
+    "questionText": "Which namespace contains the Task class used for asynchronous programming?",
+    "choices": [
+      "System.IO",
+      "System.Threading.Tasks",
+      "System.Text.Json",
+      "System.Reflection"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Task class is part of the System.Threading.Tasks namespace."
+  },
+  {
+    "id": 91,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the chemical symbol for water?",
+    "choices": [
+      "O2",
+      "H2O",
+      "CO2",
+      "NaCl"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water is made up of two hydrogen atoms and one oxygen atom (H₂O)."
+  },
+  {
+    "id": 92,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mars is called the Red Planet because of iron oxide (rust) on its surface."
+  },
+  {
+    "id": 93,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plants absorb carbon dioxide and release oxygen during photosynthesis."
+  },
+  {
+    "id": 94,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the center of our solar system?",
+    "choices": [
+      "Earth",
+      "Moon",
+      "Sun",
+      "Mars"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Sun is the star at the center of our solar system."
+  },
+  {
+    "id": 95,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which organ pumps blood throughout the human body?",
+    "choices": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The heart pumps blood through the circulatory system."
+  },
+  {
+    "id": 96,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which planet is the largest in our solar system?",
+    "choices": [
+      "Saturn",
+      "Earth",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Jupiter is the largest planet in the solar system."
+  },
+  {
+    "id": 97,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which gas do humans breathe in to survive?",
+    "choices": [
+      "Carbon Dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Helium"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Humans need oxygen for respiration."
+  },
+  {
+    "id": 98,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "How many planets are in our solar system?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "There are eight recognized planets in the solar system."
+  },
+  {
+    "id": 99,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which part of a plant absorbs water from the soil?",
+    "choices": [
+      "Leaves",
+      "Stem",
+      "Roots",
+      "Flowers"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Roots absorb water and nutrients from the soil."
+  },
+  {
+    "id": 100,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What force pulls objects toward the Earth?",
+    "choices": [
+      "Magnetism",
+      "Gravity",
+      "Friction",
+      "Electricity"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Gravity is the force that attracts objects toward the Earth."
+  },
+  {
+    "id": 101,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which planet is closest to the Sun?",
+    "choices": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mercury is the closest planet to the Sun."
+  },
+  {
+    "id": 102,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which human body system is responsible for breathing?",
+    "choices": [
+      "Digestive System",
+      "Respiratory System",
+      "Circulatory System",
+      "Nervous System"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The respiratory system enables breathing and gas exchange."
+  },
+  {
+    "id": 103,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the chemical symbol for gold?",
+    "choices": [
+      "Ag",
+      "Go",
+      "Au",
+      "Gd"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Au is the chemical symbol for gold."
+  },
+  {
+    "id": 104,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which gas is the most abundant in Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+  },
+  {
+    "id": 105,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which organ is primarily responsible for thinking and memory?",
+    "choices": [
+      "Heart",
+      "Liver",
+      "Brain",
+      "Kidney"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The brain controls thinking, memory, and other nervous system functions."
+  },
+  {
+    "id": 106,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the boiling point of water at sea level?",
+    "choices": [
+      "50°C",
+      "75°C",
+      "100°C",
+      "120°C"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "At standard atmospheric pressure, water boils at 100°C."
+  },
+  {
+    "id": 107,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which vitamin is mainly produced by the body when exposed to sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The skin produces Vitamin D when exposed to sunlight."
+  },
+  {
+    "id": 108,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which blood cells help fight infections?",
+    "choices": [
+      "Red Blood Cells",
+      "White Blood Cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "White blood cells are part of the body's immune system."
+  },
+  {
+    "id": 109,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which natural satellite orbits the Earth?",
+    "choices": [
+      "Mars",
+      "The Moon",
+      "Venus",
+      "The Sun"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Moon is Earth's only natural satellite."
+  },
+  {
+    "id": 110,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which state of matter has a definite shape and a definite volume?",
+    "choices": [
+      "Liquid",
+      "Gas",
+      "Solid",
+      "Plasma"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A solid has both a definite shape and a definite volume."
+  },
+  {
+    "id": 111,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which blood cells help fight infections?",
+    "choices": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "White blood cells are part of the body's immune system and help fight infections."
+  },
+  {
+    "id": 112,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which planet is famous for its large ring system?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Saturn is well known for its spectacular ring system."
+  },
+  {
+    "id": 113,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the main gas found in the Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+  },
+  {
+    "id": 114,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which part of the human body contains the brain?",
+    "choices": [
+      "Chest",
+      "Skull",
+      "Spine",
+      "Arm"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The skull protects and contains the brain."
+  },
+  {
+    "id": 115,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the freezing point of water in degrees Celsius?",
+    "choices": [
+      "-10°C",
+      "0°C",
+      "50°C",
+      "100°C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water freezes at 0°C under normal atmospheric pressure."
+  },
+  {
+    "id": 116,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which vitamin is mainly produced when the skin is exposed to sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The body produces Vitamin D when the skin is exposed to sunlight."
+  },
+  {
+    "id": 117,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the hardest natural substance on Earth?",
+    "choices": [
+      "Iron",
+      "Diamond",
+      "Quartz",
+      "Granite"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Diamond is the hardest naturally occurring substance."
+  },
+  {
+    "id": 118,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which organ is primarily responsible for filtering blood?",
+    "choices": [
+      "Heart",
+      "Kidneys",
+      "Lungs",
+      "Stomach"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The kidneys filter waste products from the blood."
+  },
+  {
+    "id": 119,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "Which scientist developed the theory of gravity after observing a falling apple?",
+    "choices": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Nikola Tesla"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Isaac Newton is famously associated with developing the law of universal gravitation."
+  },
+  {
+    "id": 120,
+    "category": "Science",
+    "difficulty": "Easy",
+    "questionText": "What is the nearest star to Earth?",
+    "choices": [
+      "Alpha Centauri",
+      "Polaris",
+      "The Sun",
+      "Sirius"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Sun is the closest star to Earth."
+  },
+  {
+    "id": 121,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the pH value of a neutral solution?",
+    "choices": [
+      "0",
+      "7",
+      "10",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A neutral solution has a pH of 7."
+  },
+  {
+    "id": 122,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which organ filters blood and produces urine?",
+    "choices": [
+      "Liver",
+      "Heart",
+      "Kidney",
+      "Pancreas"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The kidneys filter waste products from the blood to produce urine."
+  },
+  {
+    "id": 123,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which scientist proposed the three laws of motion?",
+    "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Isaac Newton formulated the three laws of motion."
+  },
+  {
+    "id": 124,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the most abundant gas in the Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+  },
+  {
+    "id": 125,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which process do plants use to make their own food?",
+    "choices": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Digestion"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Photosynthesis uses sunlight, water, and carbon dioxide to produce glucose."
+  },
+  {
+    "id": 126,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which planet has the largest number of known moons?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Venus"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter currently has the largest known number of confirmed moons."
+  },
+  {
+    "id": 127,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which blood vessels carry blood away from the heart?",
+    "choices": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Venules"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Arteries carry blood away from the heart."
+  },
+  {
+    "id": 128,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the chemical formula of carbon dioxide?",
+    "choices": [
+      "CO",
+      "CO2",
+      "C2O",
+      "O2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Carbon dioxide contains one carbon atom and two oxygen atoms."
+  },
+  {
+    "id": 129,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which layer of the Earth is made mostly of molten rock?",
+    "choices": [
+      "Crust",
+      "Mantle",
+      "Inner Core",
+      "Outer Core"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The mantle consists of hot, semi-solid rock beneath the Earth's crust."
+  },
+  {
+    "id": 130,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the speed of light in a vacuum?",
+    "choices": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "30,000 km/s",
+      "3,000 km/s"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Light travels at approximately 300,000 kilometers per second in a vacuum."
+  },
+  {
+    "id": 131,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which particle has a negative electric charge?",
+    "choices": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Photon"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Electrons carry a negative electric charge."
+  },
+  {
+    "id": 132,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which organelle is known as the powerhouse of the cell?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi Apparatus"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mitochondria produce most of the cell's ATP through cellular respiration."
+  },
+  {
+    "id": 133,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which law states that energy cannot be created or destroyed?",
+    "choices": [
+      "Newton's First Law",
+      "Law of Conservation of Energy",
+      "Boyle's Law",
+      "Ohm's Law"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Law of Conservation of Energy states that energy can only change forms."
+  },
+  {
+    "id": 134,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which planet is famous for its prominent ring system?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Saturn",
+      "Uranus"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Saturn is well known for its large and visible ring system."
+  },
+  {
+    "id": 135,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the SI unit of force?",
+    "choices": [
+      "Joule",
+      "Pascal",
+      "Newton",
+      "Watt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The newton (N) is the SI unit of force."
+  },
+  {
+    "id": 136,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which vitamin is essential for proper blood clotting?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Vitamin K plays a key role in the blood clotting process."
+  },
+  {
+    "id": 137,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which type of blood vessel has the thinnest walls for exchanging oxygen and nutrients?",
+    "choices": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Aorta"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Capillaries have very thin walls to allow exchange of substances."
+  },
+  {
+    "id": 138,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which scientist developed the theory of evolution by natural selection?",
+    "choices": [
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Charles Darwin",
+      "Alexander Fleming"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Charles Darwin proposed the theory of evolution through natural selection."
+  },
+  {
+    "id": 139,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the primary function of red blood cells?",
+    "choices": [
+      "Fight infections",
+      "Produce hormones",
+      "Carry oxygen",
+      "Digest food"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Red blood cells transport oxygen from the lungs to the body's tissues."
+  },
+  {
+    "id": 140,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which type of electromagnetic wave has the longest wavelength?",
+    "choices": [
+      "Gamma Rays",
+      "X-rays",
+      "Visible Light",
+      "Radio Waves"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Radio waves have the longest wavelengths in the electromagnetic spectrum."
+  },
+  {
+    "id": 141,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which blood type is known as the universal donor?",
+    "choices": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "O-negative blood can be given to patients of any blood type in emergency transfusions."
+  },
+  {
+    "id": 142,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which planet is often called Earth's twin because of its similar size?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Venus is similar to Earth in size and mass, earning it the nickname Earth's twin."
+  },
+  {
+    "id": 143,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which scientist is credited with discovering penicillin?",
+    "choices": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Isaac Newton",
+      "Louis Pasteur"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "id": 144,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which gas is responsible for the greenhouse effect in the greatest amount due to human activities?",
+    "choices": [
+      "Helium",
+      "Carbon Dioxide",
+      "Hydrogen",
+      "Neon"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Carbon dioxide is the largest contributor to the enhanced greenhouse effect from human activities."
+  },
+  {
+    "id": 145,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "What is the approximate acceleration due to gravity on Earth?",
+    "choices": [
+      "4.9 m/s²",
+      "9.8 m/s²",
+      "12.5 m/s²",
+      "15.2 m/s²"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The average acceleration due to Earth's gravity is about 9.8 meters per second squared."
+  },
+  {
+    "id": 146,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which organ in the human body produces insulin?",
+    "choices": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Stomach"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The pancreas produces insulin, which helps regulate blood sugar levels."
+  },
+  {
+    "id": 147,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which process changes a liquid directly into a gas at the surface of the liquid?",
+    "choices": [
+      "Condensation",
+      "Evaporation",
+      "Freezing",
+      "Melting"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evaporation occurs when molecules escape from the surface of a liquid into the air."
+  },
+  {
+    "id": 148,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which branch of science studies heredity and genes?",
+    "choices": [
+      "Ecology",
+      "Genetics",
+      "Astronomy",
+      "Geology"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Genetics is the study of genes, heredity, and variation in living organisms."
+  },
+  {
+    "id": 149,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which element has the chemical symbol 'Fe'?",
+    "choices": [
+      "Fluorine",
+      "Iron",
+      "Francium",
+      "Fermium"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Fe comes from the Latin word 'Ferrum,' which means iron."
+  },
+  {
+    "id": 150,
+    "category": "Science",
+    "difficulty": "Medium",
+    "questionText": "Which instrument is commonly used to measure atmospheric pressure?",
+    "choices": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A barometer measures atmospheric pressure and is commonly used in weather forecasting."
+  },
+  {
+    "id": 151,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which organelle contains the genetic material (DNA) in most eukaryotic cells?",
+    "choices": [
+      "Mitochondrion",
+      "Nucleus",
+      "Golgi Apparatus",
+      "Ribosome"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The nucleus stores most of the cell's DNA and controls cellular activities."
+  },
+  {
+    "id": 152,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which subatomic particle has no electrical charge?",
+    "choices": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Neutrons are electrically neutral particles found in the nucleus."
+  },
+  {
+    "id": 153,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which law states that for every action there is an equal and opposite reaction?",
+    "choices": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Universal Gravitation"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Newton's Third Law describes action-reaction force pairs."
+  },
+  {
+    "id": 154,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which electromagnetic wave has the highest frequency?",
+    "choices": [
+      "Microwaves",
+      "Ultraviolet Rays",
+      "Gamma Rays",
+      "Infrared Rays"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Gamma rays have the highest frequency and energy in the electromagnetic spectrum."
+  },
+  {
+    "id": 155,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which scientist developed the periodic table of elements?",
+    "choices": [
+      "John Dalton",
+      "Niels Bohr",
+      "Dmitri Mendeleev",
+      "Ernest Rutherford"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dmitri Mendeleev organized the first widely recognized periodic table."
+  },
+  {
+    "id": 156,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "What is the approximate speed of sound in air at room temperature?",
+    "choices": [
+      "343 m/s",
+      "150 m/s",
+      "500 m/s",
+      "1,000 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speed of sound in air at room temperature is approximately 343 meters per second."
+  },
+  {
+    "id": 157,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which process produces energy in the Sun?",
+    "choices": [
+      "Nuclear Fission",
+      "Combustion",
+      "Nuclear Fusion",
+      "Radioactive Decay"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Sun generates energy by fusing hydrogen atoms into helium."
+  },
+  {
+    "id": 158,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which blood vessels carry oxygen-rich blood from the lungs to the heart?",
+    "choices": [
+      "Pulmonary Arteries",
+      "Pulmonary Veins",
+      "Coronary Arteries",
+      "Aorta"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pulmonary veins carry oxygenated blood from the lungs to the left atrium."
+  },
+  {
+    "id": 159,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which type of bond involves the sharing of electrons between atoms?",
+    "choices": [
+      "Ionic Bond",
+      "Metallic Bond",
+      "Covalent Bond",
+      "Hydrogen Bond"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A covalent bond is formed when atoms share one or more pairs of electrons."
+  },
+  {
+    "id": 160,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which gas is the second most abundant in Earth's atmosphere?",
+    "choices": [
+      "Carbon Dioxide",
+      "Argon",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Oxygen makes up about 21% of Earth's atmosphere, making it the second most abundant gas."
+  },
+  {
+    "id": 161,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "What is the chemical symbol for potassium?",
+    "choices": [
+      "P",
+      "Po",
+      "K",
+      "Pt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The chemical symbol for potassium is K, derived from the Latin word 'Kalium'."
+  },
+  {
+    "id": 162,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which organelle is responsible for protein synthesis?",
+    "choices": [
+      "Mitochondrion",
+      "Ribosome",
+      "Nucleus",
+      "Lysosome"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ribosomes are the cellular structures responsible for producing proteins."
+  },
+  {
+    "id": 163,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "What is the SI unit of electric current?",
+    "choices": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The ampere (A) is the SI unit used to measure electric current."
+  },
+  {
+    "id": 164,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which planet has the strongest gravitational pull in our solar system?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter has the greatest mass and strongest gravity among the planets."
+  },
+  {
+    "id": 165,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which scientist discovered the electron?",
+    "choices": [
+      "Ernest Rutherford",
+      "J. J. Thomson",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "J. J. Thomson discovered the electron in 1897 through cathode ray experiments."
+  },
+  {
+    "id": 166,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which layer of the Sun is visible from Earth under normal conditions?",
+    "choices": [
+      "Core",
+      "Photosphere",
+      "Chromosphere",
+      "Corona"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The photosphere is the visible surface of the Sun."
+  },
+  {
+    "id": 167,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which blood vessel is the largest artery in the human body?",
+    "choices": [
+      "Pulmonary Artery",
+      "Carotid Artery",
+      "Aorta",
+      "Coronary Artery"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The aorta is the largest artery and carries oxygen-rich blood from the heart."
+  },
+  {
+    "id": 168,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which law explains the relationship between voltage, current, and resistance?",
+    "choices": [
+      "Faraday's Law",
+      "Ohm's Law",
+      "Newton's Law",
+      "Boyle's Law"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ohm's Law states that Voltage = Current × Resistance (V = IR)."
+  },
+  {
+    "id": 169,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which type of cell division produces four genetically different cells?",
+    "choices": [
+      "Mitosis",
+      "Binary Fission",
+      "Meiosis",
+      "Budding"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Meiosis produces four genetically unique haploid cells for sexual reproduction."
+  },
+  {
+    "id": 170,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which element has the atomic number 1?",
+    "choices": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Oxygen"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hydrogen is the first element in the periodic table with atomic number 1."
+  },
+  {
+    "id": 171,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which scientist proposed the theory of general relativity?",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Stephen Hawking"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Albert Einstein published the theory of general relativity in 1915."
+  },
+  {
+    "id": 172,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "What is the smallest unit of an element that retains its chemical properties?",
+    "choices": [
+      "Molecule",
+      "Atom",
+      "Electron",
+      "Proton"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "An atom is the smallest unit of an element that retains its chemical properties."
+  },
+  {
+    "id": 173,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which vitamin is essential for calcium absorption in the human body?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Vitamin D helps the body absorb calcium from food."
+  },
+  {
+    "id": 174,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which blood vessels carry blood toward the heart?",
+    "choices": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Aorta"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Veins return blood back to the heart."
+  },
+  {
+    "id": 175,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which planet has the shortest year because it orbits the Sun the fastest?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mercury completes one orbit around the Sun in about 88 Earth days."
+  },
+  {
+    "id": 176,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which scientist discovered radioactivity?",
+    "choices": [
+      "Marie Curie",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "Niels Bohr"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Henri Becquerel discovered natural radioactivity in 1896."
+  },
+  {
+    "id": 177,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which process converts glucose into energy inside cells?",
+    "choices": [
+      "Photosynthesis",
+      "Cellular Respiration",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Cellular respiration breaks down glucose to produce ATP, the cell's energy source."
+  },
+  {
+    "id": 178,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which SI unit is used to measure power?",
+    "choices": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Volt"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The watt (W) is the SI unit of power."
+  },
+  {
+    "id": 179,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which organ produces bile to help digest fats?",
+    "choices": [
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Gallbladder"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The liver produces bile, while the gallbladder stores it."
+  },
+  {
+    "id": 180,
+    "category": "Science",
+    "difficulty": "Hard",
+    "questionText": "Which branch of science studies earthquakes and the Earth's internal structure?",
+    "choices": [
+      "Meteorology",
+      "Seismology",
+      "Ecology",
+      "Astronomy"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Seismology is the study of earthquakes and seismic waves."
+  },
+  {
+    "id": 181,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 15 + 8?",
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15 + 8 = 23."
+  },
+  {
+    "id": 182,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 9 × 7?",
+    "choices": [
+      "56",
+      "63",
+      "72",
+      "49"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "9 multiplied by 7 equals 63."
+  },
+  {
+    "id": 183,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 81 ÷ 9?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "81 divided by 9 equals 9."
+  },
+  {
+    "id": 184,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is the value of 12²?",
+    "choices": [
+      "124",
+      "24",
+      "144",
+      "132"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12² means 12 × 12 = 144."
+  },
+  {
+    "id": 185,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which number is a prime number?",
+    "choices": [
+      "15",
+      "18",
+      "19",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "19 is divisible only by 1 and itself."
+  },
+  {
+    "id": 186,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 45 - 17?",
+    "choices": [
+      "28",
+      "29",
+      "27",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "45 - 17 = 28."
+  },
+  {
+    "id": 187,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "How many sides does a hexagon have?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A hexagon has 6 sides."
+  },
+  {
+    "id": 188,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 5³?",
+    "choices": [
+      "25",
+      "75",
+      "125",
+      "100"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5³ = 5 × 5 × 5 = 125."
+  },
+  {
+    "id": 189,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which fraction is equal to one-half?",
+    "choices": [
+      "2/3",
+      "3/4",
+      "1/2",
+      "4/5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "1/2 represents one-half."
+  },
+  {
+    "id": 190,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 100 ÷ 4?",
+    "choices": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "100 divided by 4 equals 25."
+  },
+  {
+    "id": 191,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 24 + 36?",
+    "choices": [
+      "58",
+      "60",
+      "62",
+      "64"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "24 + 36 = 60."
+  },
+  {
+    "id": 192,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 14 × 6?",
+    "choices": [
+      "72",
+      "84",
+      "96",
+      "78"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "14 × 6 = 84."
+  },
+  {
+    "id": 193,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 144 ÷ 12?",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "144 ÷ 12 = 12."
+  },
+  {
+    "id": 194,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is the value of 9²?",
+    "choices": [
+      "18",
+      "72",
+      "81",
+      "99"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "9² = 9 × 9 = 81."
+  },
+  {
+    "id": 195,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which of the following is an even number?",
+    "choices": [
+      "17",
+      "21",
+      "28",
+      "33"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "28 is divisible by 2 without a remainder."
+  },
+  {
+    "id": 196,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 90 - 45?",
+    "choices": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "90 - 45 = 45."
+  },
+  {
+    "id": 197,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "How many sides does an octagon have?",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "An octagon has 8 sides."
+  },
+  {
+    "id": 198,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 10³?",
+    "choices": [
+      "100",
+      "1,000",
+      "10,000",
+      "100,000"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "10³ = 10 × 10 × 10 = 1,000."
+  },
+  {
+    "id": 199,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which fraction is equivalent to 3/4?",
+    "choices": [
+      "6/8",
+      "2/5",
+      "4/5",
+      "5/6"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "3/4 and 6/8 represent the same value."
+  },
+  {
+    "id": 200,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 225 ÷ 15?",
+    "choices": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "225 ÷ 15 = 15."
+  },
+  {
+    "id": 201,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 18 + 27?",
+    "choices": [
+      "43",
+      "44",
+      "45",
+      "46"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "18 + 27 = 45."
+  },
+  {
+    "id": 202,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 16 × 5?",
+    "choices": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "16 × 5 = 80."
+  },
+  {
+    "id": 203,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 196 ÷ 14?",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "196 ÷ 14 = 14."
+  },
+  {
+    "id": 204,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is the square root of 144?",
+    "choices": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "√144 = 12."
+  },
+  {
+    "id": 205,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which number is divisible by both 2 and 5?",
+    "choices": [
+      "12",
+      "18",
+      "20",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20 is divisible by both 2 and 5."
+  },
+  {
+    "id": 206,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 84 - 29?",
+    "choices": [
+      "53",
+      "54",
+      "55",
+      "56"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "84 - 29 = 55."
+  },
+  {
+    "id": 207,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "How many degrees are in a right angle?",
+    "choices": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A right angle measures exactly 90 degrees."
+  },
+  {
+    "id": 208,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 2⁶?",
+    "choices": [
+      "32",
+      "64",
+      "128",
+      "256"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64."
+  },
+  {
+    "id": 209,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "Which decimal is equal to 3/5?",
+    "choices": [
+      "0.3",
+      "0.5",
+      "0.6",
+      "0.8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3 ÷ 5 = 0.6."
+  },
+  {
+    "id": 210,
+    "category": "Mathematics",
+    "difficulty": "Easy",
+    "questionText": "What is 11 × 11?",
+    "choices": [
+      "111",
+      "120",
+      "121",
+      "131"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "11 × 11 = 121."
+  },
+  {
+    "id": 211,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Solve for x: 3x + 5 = 20.",
+    "choices": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5."
+  },
+  {
+    "id": 212,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is 25% of 160?",
+    "choices": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 160 = 0.25 × 160 = 40."
+  },
+  {
+    "id": 213,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the area of a rectangle with a length of 12 cm and a width of 8 cm?",
+    "choices": [
+      "20 cm²",
+      "48 cm²",
+      "96 cm²",
+      "120 cm²"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Area = length × width = 12 × 8 = 96 cm²."
+  },
+  {
+    "id": 214,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the value of √225?",
+    "choices": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "15 × 15 = 225."
+  },
+  {
+    "id": 215,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "A triangle has angles of 50° and 60°. What is the third angle?",
+    "choices": [
+      "60°",
+      "70°",
+      "80°",
+      "90°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The angles of a triangle total 180°. 180 − 50 − 60 = 70°."
+  },
+  {
+    "id": 216,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is 7² + 3²?",
+    "choices": [
+      "56",
+      "58",
+      "60",
+      "64"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "7² = 49 and 3² = 9. 49 + 9 = 58."
+  },
+  {
+    "id": 217,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the perimeter of a square with a side length of 9 cm?",
+    "choices": [
+      "18 cm",
+      "27 cm",
+      "36 cm",
+      "81 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Perimeter = 4 × side = 4 × 9 = 36 cm."
+  },
+  {
+    "id": 218,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Which of the following fractions is the largest?",
+    "choices": [
+      "1/2",
+      "2/3",
+      "3/5",
+      "5/9"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2/3 ≈ 0.667, which is greater than the others."
+  },
+  {
+    "id": 219,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "If a car travels 240 km in 4 hours, what is its average speed?",
+    "choices": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "80 km/h"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Average speed = distance ÷ time = 240 ÷ 4 = 60 km/h."
+  },
+  {
+    "id": 220,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the value of 5 × (8 − 3)?",
+    "choices": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Evaluate the parentheses first: 8 − 3 = 5, then 5 × 5 = 25."
+  },
+  {
+    "id": 221,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is 35% of 200?",
+    "choices": [
+      "60",
+      "65",
+      "70",
+      "75"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "35% of 200 = 0.35 × 200 = 70."
+  },
+  {
+    "id": 222,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Solve for x: 4x - 8 = 20.",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "4x - 8 = 20 → 4x = 28 → x = 7."
+  },
+  {
+    "id": 223,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the circumference of a circle with a radius of 7? (Use π = 22/7)",
+    "choices": [
+      "22",
+      "44",
+      "49",
+      "154"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 44."
+  },
+  {
+    "id": 224,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the value of 2³ × 5?",
+    "choices": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "2³ = 8, and 8 × 5 = 40."
+  },
+  {
+    "id": 225,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "A shirt costs ₱800 and is discounted by 15%. What is the sale price?",
+    "choices": [
+      "₱660",
+      "₱680",
+      "₱700",
+      "₱720"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "15% of ₱800 is ₱120. ₱800 − ₱120 = ₱680."
+  },
+  {
+    "id": 226,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the mean of 10, 12, 15, 18, and 20?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The sum is 75. 75 ÷ 5 = 15."
+  },
+  {
+    "id": 227,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Which of the following is an irrational number?",
+    "choices": [
+      "1/2",
+      "0.25",
+      "√2",
+      "9"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "√2 is an irrational number because it cannot be expressed as a fraction."
+  },
+  {
+    "id": 228,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the volume of a cube with a side length of 4 cm?",
+    "choices": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Volume = side³ = 4³ = 64 cm³."
+  },
+  {
+    "id": 229,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the value of 9 × 12 ÷ 3?",
+    "choices": [
+      "27",
+      "36",
+      "45",
+      "54"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "9 × 12 = 108, then 108 ÷ 3 = 36."
+  },
+  {
+    "id": 230,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "If a triangle has sides of 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
+    "choices": [
+      "Equilateral",
+      "Isosceles",
+      "Right Triangle",
+      "Obtuse Triangle"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Since 5² + 12² = 13² (25 + 144 = 169), it is a right triangle."
+  },
+  {
+    "id": 231,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Solve for x: 5x + 15 = 40.",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5x + 15 = 40 → 5x = 25 → x = 5."
+  },
+  {
+    "id": 232,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is 12.5% of 80?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "12.5% = 1/8, and 80 ÷ 8 = 10."
+  },
+  {
+    "id": 233,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the area of a triangle with a base of 10 cm and a height of 8 cm?",
+    "choices": [
+      "40 cm²",
+      "60 cm²",
+      "80 cm²",
+      "100 cm²"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Area = ½ × base × height = ½ × 10 × 8 = 40 cm²."
+  },
+  {
+    "id": 234,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the median of the numbers 4, 7, 9, 11, and 15?",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The middle value in the ordered list is 9."
+  },
+  {
+    "id": 235,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "A bag contains 5 red, 3 blue, and 2 green marbles. What is the probability of drawing a blue marble?",
+    "choices": [
+      "1/10",
+      "2/5",
+      "3/10",
+      "1/2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "There are 10 marbles in total, and 3 are blue. Probability = 3/10."
+  },
+  {
+    "id": 236,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Convert 0.75 to a fraction in simplest form.",
+    "choices": [
+      "1/2",
+      "2/3",
+      "3/4",
+      "4/5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "0.75 = 75/100 = 3/4 after simplification."
+  },
+  {
+    "id": 237,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "choices": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "3 parts = 30, so 1 part = 10. Girls = 2 parts = 20."
+  },
+  {
+    "id": 238,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "What is the sum of the interior angles of a pentagon?",
+    "choices": [
+      "360°",
+      "540°",
+      "720°",
+      "900°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The sum of interior angles is (n − 2) × 180°. For a pentagon: (5 − 2) × 180 = 540°."
+  },
+  {
+    "id": 239,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "Which of the following numbers is divisible by both 3 and 9?",
+    "choices": [
+      "27",
+      "35",
+      "44",
+      "52"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "27 is divisible by both 3 and 9."
+  },
+  {
+    "id": 240,
+    "category": "Mathematics",
+    "difficulty": "Medium",
+    "questionText": "A train travels 360 km in 6 hours. What is its average speed?",
+    "choices": [
+      "50 km/h",
+      "55 km/h",
+      "60 km/h",
+      "65 km/h"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Average speed = distance ÷ time = 360 ÷ 6 = 60 km/h."
+  },
+  {
+    "id": 241,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Solve for x: x² - 9 = 0.",
+    "choices": [
+      "x = 3 only",
+      "x = -3 only",
+      "x = ±3",
+      "x = 9"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "x² - 9 = (x - 3)(x + 3), so x = 3 or x = -3."
+  },
+  {
+    "id": 242,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the value of 2⁵ × 2³?",
+    "choices": [
+      "2⁸",
+      "2¹⁵",
+      "2²",
+      "2⁷"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "When multiplying powers with the same base, add the exponents: 2⁵ × 2³ = 2⁸."
+  },
+  {
+    "id": 243,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the slope of the line passing through the points (2, 3) and (6, 11)?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slope = (11 - 3) ÷ (6 - 2) = 8 ÷ 4 = 2."
+  },
+  {
+    "id": 244,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is sin(90°)?",
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The sine of 90° is 1."
+  },
+  {
+    "id": 245,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the sum of the first 10 natural numbers?",
+    "choices": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The sum of the first n natural numbers is n(n + 1) ÷ 2. For n = 10, the sum is 55."
+  },
+  {
+    "id": 246,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "If the probability of an event is 0.2, what is the probability that it does not occur?",
+    "choices": [
+      "0.2",
+      "0.5",
+      "0.8",
+      "1.2"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The probability of the complement is 1 - 0.2 = 0.8."
+  },
+  {
+    "id": 247,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the value of log₁₀(1000)?",
+    "choices": [
+      "2",
+      "3",
+      "10",
+      "1000"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Since 10³ = 1000, log₁₀(1000) = 3."
+  },
+  {
+    "id": 248,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the distance between the points (0,0) and (3,4)?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Distance = √(3² + 4²) = √25 = 5."
+  },
+  {
+    "id": 249,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Simplify: (x² × x³) ÷ x.",
+    "choices": [
+      "x³",
+      "x⁴",
+      "x⁵",
+      "x⁶"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "x² × x³ = x⁵, then x⁵ ÷ x = x⁴."
+  },
+  {
+    "id": 250,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "A fair six-sided die is rolled once. What is the probability of getting an even number?",
+    "choices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "There are three even numbers (2, 4, and 6) out of six possible outcomes, so the probability is 3/6 = 1/2."
+  },
+  {
+    "id": 251,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Solve for x: 2x² - 18 = 0.",
+    "choices": [
+      "x = ±2",
+      "x = ±3",
+      "x = ±4",
+      "x = ±5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "2x² = 18 → x² = 9 → x = ±3."
+  },
+  {
+    "id": 252,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the value of 3⁴?",
+    "choices": [
+      "27",
+      "64",
+      "81",
+      "243"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3⁴ = 3 × 3 × 3 × 3 = 81."
+  },
+  {
+    "id": 253,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the slope of the line passing through the points (4,5) and (8,13)?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Slope = (13 − 5) ÷ (8 − 4) = 8 ÷ 4 = 2."
+  },
+  {
+    "id": 254,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is cos(0°)?",
+    "choices": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The cosine of 0° is 1."
+  },
+  {
+    "id": 255,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the sum of the interior angles of a hexagon?",
+    "choices": [
+      "540°",
+      "720°",
+      "900°",
+      "1080°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The sum of interior angles is (n − 2) × 180°. For a hexagon: (6 − 2) × 180 = 720°."
+  },
+  {
+    "id": 256,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "A bag contains 4 red, 5 blue, and 1 green marble. What is the probability of drawing a green marble?",
+    "choices": [
+      "1/5",
+      "1/10",
+      "1/4",
+      "1/2"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "There are 10 marbles total and only 1 is green, so the probability is 1/10."
+  },
+  {
+    "id": 257,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is log₁₀(100)?",
+    "choices": [
+      "1",
+      "2",
+      "10",
+      "100"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Since 10² = 100, log₁₀(100) = 2."
+  },
+  {
+    "id": 258,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the distance between the points (1,2) and (4,6)?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Distance = √((4−1)² + (6−2)²) = √(9 + 16) = √25 = 5."
+  },
+  {
+    "id": 259,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Simplify: (a³ × a²) ÷ a.",
+    "choices": [
+      "a³",
+      "a⁴",
+      "a⁵",
+      "a⁶"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "a³ × a² = a⁵, then a⁵ ÷ a = a⁴."
+  },
+  {
+    "id": 260,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "A coin is tossed twice. What is the probability of getting two heads?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The possible outcomes are HH, HT, TH, TT. Only HH is favorable, so the probability is 1/4."
+  },
+  {
+    "id": 261,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Solve for x: x² - 16 = 0.",
+    "choices": [
+      "x = ±2",
+      "x = ±4",
+      "x = 4 only",
+      "x = -4 only"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "x² - 16 = (x - 4)(x + 4), so x = ±4."
+  },
+  {
+    "id": 262,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the value of 5³?",
+    "choices": [
+      "25",
+      "75",
+      "125",
+      "150"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5³ = 5 × 5 × 5 = 125."
+  },
+  {
+    "id": 263,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is tan(45°)?",
+    "choices": [
+      "0",
+      "1",
+      "√3",
+      "Undefined"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The tangent of 45° is equal to 1."
+  },
+  {
+    "id": 264,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the sum of the interior angles of an octagon?",
+    "choices": [
+      "900°",
+      "1080°",
+      "1260°",
+      "1440°"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "For an octagon, (8 − 2) × 180 = 1080°."
+  },
+  {
+    "id": 265,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the probability of rolling a number greater than 4 on a fair six-sided die?",
+    "choices": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Numbers greater than 4 are 5 and 6. There are 2 favorable outcomes out of 6, so the probability is 2/6 = 1/3."
+  },
+  {
+    "id": 266,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is log₁₀(10000)?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Since 10⁴ = 10000, log₁₀(10000) = 4."
+  },
+  {
+    "id": 267,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "What is the distance between the points (2,1) and (5,5)?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Distance = √((5−2)² + (5−1)²) = √(9 + 16) = √25 = 5."
+  },
+  {
+    "id": 268,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Simplify: (y⁵ × y²) ÷ y³.",
+    "choices": [
+      "y²",
+      "y³",
+      "y⁴",
+      "y⁵"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "y⁵ × y² = y⁷, then y⁷ ÷ y³ = y⁴."
+  },
+  {
+    "id": 269,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "A box contains 8 white balls and 2 black balls. What is the probability of drawing a black ball?",
+    "choices": [
+      "1/10",
+      "1/5",
+      "2/5",
+      "4/5"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "There are 10 balls in total and 2 are black. Probability = 2/10 = 1/5."
+  },
+  {
+    "id": 270,
+    "category": "Mathematics",
+    "difficulty": "Hard",
+    "questionText": "Which formula is used to calculate the area of a circle?",
+    "choices": [
+      "πr",
+      "2πr",
+      "πr²",
+      "2πr²"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The area of a circle is calculated using the formula A = πr²."
+  },
+  {
+    "id": 271,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "What is the capital city of the Philippines?",
+    "choices": [
+      "Cebu",
+      "Manila",
+      "Davao",
+      "Baguio"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Manila is the capital city of the Philippines."
+  },
+  {
+    "id": 272,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "How many days are there in a leap year?",
+    "choices": [
+      "365",
+      "366",
+      "364",
+      "367"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A leap year has 366 days because February has 29 days."
+  },
+  {
+    "id": 273,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mars is called the Red Planet because of its reddish appearance."
+  },
+  {
+    "id": 274,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which ocean is the largest on Earth?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Pacific Ocean is the largest ocean on Earth."
+  },
+  {
+    "id": 275,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which animal is known as the 'King of the Jungle'?",
+    "choices": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Leopard"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The lion is commonly referred to as the King of the Jungle."
+  },
+  {
+    "id": 276,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "How many continents are there on Earth?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
+  },
+  {
+    "id": 277,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which color is formed by mixing red and blue?",
+    "choices": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Yellow"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mixing red and blue produces purple."
+  },
+  {
+    "id": 278,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which is the longest river in the world according to most modern references?",
+    "choices": [
+      "Amazon River",
+      "Yangtze River",
+      "Mississippi River",
+      "Nile River"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The Nile River is commonly recognized as the world's longest river."
+  },
+  {
+    "id": 279,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "What is the freezing point of water in degrees Celsius?",
+    "choices": [
+      "-10°C",
+      "0°C",
+      "32°C",
+      "100°C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Water freezes at 0°C under standard atmospheric pressure."
+  },
+  {
+    "id": 280,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which instrument is used to measure temperature?",
+    "choices": [
+      "Barometer",
+      "Thermometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A thermometer is used to measure temperature."
+  },
+  {
+    "id": 281,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "choices": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Japan is known as the Land of the Rising Sun."
+  },
+  {
+    "id": 282,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "How many colors are there in a rainbow?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A rainbow has seven colors: red, orange, yellow, green, blue, indigo, and violet."
+  },
+  {
+    "id": 283,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which gas do plants absorb from the atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plants absorb carbon dioxide during photosynthesis."
+  },
+  {
+    "id": 284,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which is the largest mammal in the world?",
+    "choices": [
+      "African Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The blue whale is the largest mammal and animal on Earth."
+  },
+  {
+    "id": 285,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which month has the fewest days?",
+    "choices": [
+      "January",
+      "February",
+      "April",
+      "June"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "February has 28 days in a common year and 29 in a leap year."
+  },
+  {
+    "id": 286,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "What is the national flower of the Philippines?",
+    "choices": [
+      "Rose",
+      "Sampaguita",
+      "Sunflower",
+      "Orchid"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Sampaguita is the national flower of the Philippines."
+  },
+  {
+    "id": 287,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which device is primarily used to make phone calls and send messages?",
+    "choices": [
+      "Printer",
+      "Television",
+      "Smartphone",
+      "Scanner"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A smartphone is used for calling, messaging, and many other tasks."
+  },
+  {
+    "id": 288,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "How many hours are there in one day?",
+    "choices": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "One day consists of 24 hours."
+  },
+  {
+    "id": 289,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which shape has three sides?",
+    "choices": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Rectangle"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "A triangle is a polygon with three sides."
+  },
+  {
+    "id": 290,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "What is the main source of light for Earth?",
+    "choices": [
+      "The Moon",
+      "Mars",
+      "The Sun",
+      "Stars"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Sun provides the light and heat necessary for life on Earth."
+  },
+  {
+    "id": 291,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which planet is the largest in our Solar System?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Jupiter is the largest planet in our Solar System."
+  },
+  {
+    "id": 292,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which sense allows humans to hear sounds?",
+    "choices": [
+      "Sight",
+      "Touch",
+      "Hearing",
+      "Taste"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The sense of hearing allows us to detect sounds using our ears."
+  },
+  {
+    "id": 293,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which country is home to the Eiffel Tower?",
+    "choices": [
+      "Italy",
+      "Germany",
+      "France",
+      "Spain"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Eiffel Tower is located in Paris, France."
+  },
+  {
+    "id": 294,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "How many minutes are there in one hour?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "There are 60 minutes in one hour."
+  },
+  {
+    "id": 295,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which animal is known for carrying its baby in a pouch?",
+    "choices": [
+      "Rabbit",
+      "Kangaroo",
+      "Horse",
+      "Tiger"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A kangaroo carries its baby, called a joey, in a pouch."
+  },
+  {
+    "id": 296,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which metal is commonly used to make electrical wires?",
+    "choices": [
+      "Gold",
+      "Copper",
+      "Iron",
+      "Silver"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Copper is widely used for electrical wiring because it is an excellent conductor."
+  },
+  {
+    "id": 297,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which day comes immediately after Friday?",
+    "choices": [
+      "Thursday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Saturday follows Friday."
+  },
+  {
+    "id": 298,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which continent is the Sahara Desert located on?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Sahara Desert is located in northern Africa."
+  },
+  {
+    "id": 299,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which part of the plant absorbs water from the soil?",
+    "choices": [
+      "Leaf",
+      "Flower",
+      "Root",
+      "Stem"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The roots absorb water and nutrients from the soil."
+  },
+  {
+    "id": 300,
+    "category": "General Knowledge",
+    "difficulty": "Easy",
+    "questionText": "Which currency is used in the Philippines?",
+    "choices": [
+      "Dollar",
+      "Yen",
+      "Peso",
+      "Baht"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The official currency of the Philippines is the Philippine Peso (PHP)."
+  },
+  {
+    "id": 301,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country has the largest population in the world as of 2026?",
+    "choices": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "India is the world's most populous country."
+  },
+  {
+    "id": 302,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Who painted the Mona Lisa?",
+    "choices": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "id": 303,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which is the smallest continent by land area?",
+    "choices": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Australia is the smallest continent."
+  },
+  {
+    "id": 304,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country is famous for the pyramids of Giza?",
+    "choices": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "Jordan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Great Pyramids of Giza are located in Egypt."
+  },
+  {
+    "id": 305,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the largest organ in the human body?",
+    "choices": [
+      "Heart",
+      "Liver",
+      "Skin",
+      "Lungs"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The skin is the largest organ of the human body."
+  },
+  {
+    "id": 306,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which language has the most native speakers in the world?",
+    "choices": [
+      "English",
+      "Spanish",
+      "Mandarin Chinese",
+      "Hindi"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mandarin Chinese has the highest number of native speakers."
+  },
+  {
+    "id": 307,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which instrument is used to measure atmospheric pressure?",
+    "choices": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Altimeter"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A barometer measures atmospheric pressure."
+  },
+  {
+    "id": 308,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Who wrote the play 'Romeo and Juliet'?",
+    "choices": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Mark Twain",
+      "Jane Austen"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "William Shakespeare wrote 'Romeo and Juliet'."
+  },
+  {
+    "id": 309,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which is the largest desert in the world?",
+    "choices": [
+      "Sahara Desert",
+      "Arabian Desert",
+      "Antarctic Desert",
+      "Gobi Desert"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Antarctic Desert is the world's largest desert."
+  },
+  {
+    "id": 310,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the official currency of Japan?",
+    "choices": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The official currency of Japan is the Japanese Yen."
+  },
+  {
+    "id": 311,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country is known as the Land of Fire and Ice?",
+    "choices": [
+      "Norway",
+      "Canada",
+      "Iceland",
+      "Finland"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Iceland is called the Land of Fire and Ice because of its volcanoes and glaciers."
+  },
+  {
+    "id": 312,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which is the largest island in the world?",
+    "choices": [
+      "Madagascar",
+      "Greenland",
+      "New Guinea",
+      "Borneo"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Greenland is the world's largest island that is not considered a continent."
+  },
+  {
+    "id": 313,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which scientist developed the three laws of motion?",
+    "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Nikola Tesla"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Isaac Newton formulated the three laws of motion."
+  },
+  {
+    "id": 314,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country gifted the Statue of Liberty to the United States?",
+    "choices": [
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "France presented the Statue of Liberty to the United States in 1886."
+  },
+  {
+    "id": 315,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which is the longest mountain range in the world?",
+    "choices": [
+      "Rocky Mountains",
+      "Andes Mountains",
+      "Himalayas",
+      "Alps"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Andes Mountains are the longest continental mountain range in the world."
+  },
+  {
+    "id": 316,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which famous ship sank after hitting an iceberg in 1912?",
+    "choices": [
+      "Lusitania",
+      "Britannic",
+      "Titanic",
+      "Queen Mary"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The RMS Titanic sank on its maiden voyage in April 1912."
+  },
+  {
+    "id": 317,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which is the largest planet in our Solar System?",
+    "choices": [
+      "Saturn",
+      "Earth",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Jupiter is the largest planet in the Solar System."
+  },
+  {
+    "id": 318,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which vitamin is mainly obtained from sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "The body produces Vitamin D when the skin is exposed to sunlight."
+  },
+  {
+    "id": 319,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the tallest mountain above sea level?",
+    "choices": [
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "K2",
+      "Mount Fuji"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mount Everest is the highest mountain above sea level."
+  },
+  {
+    "id": 320,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country is famous for the ancient city of Machu Picchu?",
+    "choices": [
+      "Brazil",
+      "Mexico",
+      "Peru",
+      "Chile"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Machu Picchu is an ancient Incan city located in Peru."
+  },
+  {
+    "id": 321,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country is home to the Great Barrier Reef?",
+    "choices": [
+      "New Zealand",
+      "Australia",
+      "Indonesia",
+      "Philippines"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Great Barrier Reef is located off the coast of Queensland, Australia."
+  },
+  {
+    "id": 322,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which metal has the chemical symbol Ag?",
+    "choices": [
+      "Gold",
+      "Silver",
+      "Aluminum",
+      "Argon"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ag is the chemical symbol for silver, derived from the Latin word 'Argentum'."
+  },
+  {
+    "id": 323,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Who invented the telephone?",
+    "choices": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Alexander Graham Bell is credited with inventing the first practical telephone."
+  },
+  {
+    "id": 324,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "What is the largest internal organ in the human body?",
+    "choices": [
+      "Heart",
+      "Brain",
+      "Liver",
+      "Lungs"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The liver is the largest internal organ in the human body."
+  },
+  {
+    "id": 325,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which continent has the most countries?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Africa has 54 internationally recognized countries, the most of any continent."
+  },
+  {
+    "id": 326,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which famous clock tower is located in London?",
+    "choices": [
+      "Big Ben",
+      "Clock Tower of Pisa",
+      "Elizabeth Clock",
+      "Westminster Bell"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Big Ben is the nickname commonly used for the Great Bell in the Elizabeth Tower at the Palace of Westminster."
+  },
+  {
+    "id": 327,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which ocean lies between Africa and Australia?",
+    "choices": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Indian Ocean is located between Africa, Asia, Australia, and Antarctica."
+  },
+  {
+    "id": 328,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which gas makes up about 78% of Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere."
+  },
+  {
+    "id": 329,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Who was the first person to walk on the Moon?",
+    "choices": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Neil Armstrong became the first person to walk on the Moon on July 20, 1969."
+  },
+  {
+    "id": 330,
+    "category": "General Knowledge",
+    "difficulty": "Medium",
+    "questionText": "Which country is famous for the Taj Mahal?",
+    "choices": [
+      "Pakistan",
+      "India",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Taj Mahal is located in Agra, India."
+  },
+  {
+    "id": 331,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which country has the most time zones when all of its overseas territories are included?",
+    "choices": [
+      "Russia",
+      "United States",
+      "France",
+      "United Kingdom"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "France has the most time zones in the world due to its overseas territories."
+  },
+  {
+    "id": 332,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which element has the chemical symbol 'W'?",
+    "choices": [
+      "Tungsten",
+      "Tungstate",
+      "Titanium",
+      "Tin"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The symbol W comes from the German name 'Wolfram', which refers to tungsten."
+  },
+  {
+    "id": 333,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which planet rotates on its side with an axial tilt of about 98 degrees?",
+    "choices": [
+      "Saturn",
+      "Neptune",
+      "Uranus",
+      "Jupiter"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Uranus rotates almost completely on its side with an axial tilt of about 98°."
+  },
+  {
+    "id": 334,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Who wrote the novel '1984'?",
+    "choices": [
+      "George Orwell",
+      "Aldous Huxley",
+      "J.R.R. Tolkien",
+      "Ernest Hemingway"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "George Orwell published the dystopian novel '1984' in 1949."
+  },
+  {
+    "id": 335,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which is the deepest known point in Earth's oceans?",
+    "choices": [
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Mariana Trench",
+      "Tonga Trench"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Challenger Deep in the Mariana Trench is the deepest known point in Earth's oceans."
+  },
+  {
+    "id": 336,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which civilization built Machu Picchu?",
+    "choices": [
+      "Maya",
+      "Aztec",
+      "Inca",
+      "Olmec"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Machu Picchu was built by the Inca civilization during the 15th century."
+  },
+  {
+    "id": 337,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "What is the capital city of Canada?",
+    "choices": [
+      "Toronto",
+      "Montreal",
+      "Ottawa",
+      "Vancouver"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ottawa is the capital city of Canada."
+  },
+  {
+    "id": 338,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which scientist proposed the three laws of planetary motion?",
+    "choices": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Nicolaus Copernicus"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Johannes Kepler formulated the three laws of planetary motion."
+  },
+  {
+    "id": 339,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which country has the largest land area in the world?",
+    "choices": [
+      "Canada",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 340,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which famous physicist introduced the uncertainty principle?",
+    "choices": [
+      "Albert Einstein",
+      "Niels Bohr",
+      "Werner Heisenberg",
+      "Max Planck"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Werner Heisenberg introduced the uncertainty principle in quantum mechanics."
+  },
+  {
+    "id": 341,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which country is both the smallest country in the world and an independent state?",
+    "choices": [
+      "Monaco",
+      "San Marino",
+      "Vatican City",
+      "Liechtenstein"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Vatican City is the world's smallest independent country by both area and population."
+  },
+  {
+    "id": 342,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "What is the chemical symbol for potassium?",
+    "choices": [
+      "P",
+      "Pt",
+      "K",
+      "Po"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The symbol K comes from the Latin word 'Kalium'."
+  },
+  {
+    "id": 343,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which planet has the shortest day in our Solar System?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter completes one rotation in about 10 hours, making it the planet with the shortest day."
+  },
+  {
+    "id": 344,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Who composed the famous piece 'Für Elise'?",
+    "choices": [
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Franz Schubert"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "'Für Elise' was composed by Ludwig van Beethoven."
+  },
+  {
+    "id": 345,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which desert is the largest hot desert in the world?",
+    "choices": [
+      "Gobi Desert",
+      "Arabian Desert",
+      "Sahara Desert",
+      "Kalahari Desert"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Sahara Desert is the world's largest hot desert."
+  },
+  {
+    "id": 346,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which empire built the Colosseum in Rome?",
+    "choices": [
+      "Greek Empire",
+      "Roman Empire",
+      "Ottoman Empire",
+      "Byzantine Empire"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Colosseum was built during the Roman Empire in the first century AD."
+  },
+  {
+    "id": 347,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which city hosted the 2016 Summer Olympics?",
+    "choices": [
+      "Tokyo",
+      "London",
+      "Rio de Janeiro",
+      "Beijing"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+  },
+  {
+    "id": 348,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which blood type is known as the universal donor for red blood cells?",
+    "choices": [
+      "A+",
+      "AB+",
+      "O-",
+      "B-"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "O negative blood can be given to patients of all blood types in emergencies."
+  },
+  {
+    "id": 349,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which is the longest river in South America?",
+    "choices": [
+      "Orinoco River",
+      "Amazon River",
+      "Paraná River",
+      "São Francisco River"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The Amazon River is the longest river in South America and carries the greatest volume of water in the world."
+  },
+  {
+    "id": 350,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Who developed the theory of general relativity?",
+    "choices": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Albert Einstein published the theory of general relativity in 1915."
+  },
+  {
+    "id": 351,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which is the largest moon in the Solar System?",
+    "choices": [
+      "Titan",
+      "Europa",
+      "Ganymede",
+      "Callisto"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ganymede, one of Jupiter's moons, is the largest moon in the Solar System."
+  },
+  {
+    "id": 352,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which country is home to the ancient city of Petra?",
+    "choices": [
+      "Jordan",
+      "Egypt",
+      "Saudi Arabia",
+      "Turkey"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Petra is an ancient city carved into rock in southern Jordan."
+  },
+  {
+    "id": 353,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Who discovered penicillin in 1928?",
+    "choices": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Alexander Fleming discovered penicillin in 1928."
+  },
+  {
+    "id": 354,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which is the smallest bone in the human body?",
+    "choices": [
+      "Stapes",
+      "Femur",
+      "Radius",
+      "Ulna"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The stapes, located in the middle ear, is the smallest bone in the human body."
+  },
+  {
+    "id": 355,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "What is the speed of light in a vacuum (approximately)?",
+    "choices": [
+      "150,000 km/s",
+      "300,000 km/s",
+      "450,000 km/s",
+      "600,000 km/s"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The speed of light in a vacuum is approximately 300,000 kilometers per second."
+  },
+  {
+    "id": 356,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which famous scientist formulated the laws of planetary motion?",
+    "choices": [
+      "Johannes Kepler",
+      "Isaac Newton",
+      "Nicolaus Copernicus",
+      "Galileo Galilei"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Johannes Kepler formulated the three laws of planetary motion."
+  },
+  {
+    "id": 357,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which continent contains the most freshwater by volume?",
+    "choices": [
+      "North America",
+      "Asia",
+      "Antarctica",
+      "Europe"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Antarctica contains about 70% of Earth's freshwater, stored as ice."
+  },
+  {
+    "id": 358,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which ocean is the deepest in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Pacific Ocean is the deepest ocean and contains the Mariana Trench."
+  },
+  {
+    "id": 359,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which language is primarily spoken in Brazil?",
+    "choices": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Portuguese is the official language of Brazil."
+  },
+  {
+    "id": 360,
+    "category": "General Knowledge",
+    "difficulty": "Hard",
+    "questionText": "Which scientist is known as the 'Father of Modern Physics' due to his theory of relativity?",
+    "choices": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Max Planck"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Albert Einstein developed the special and general theories of relativity."
+  }
+
+]
